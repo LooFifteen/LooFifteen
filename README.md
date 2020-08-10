@@ -12,4 +12,8 @@ Here are some ideas to get you started:
 
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
+```text
+Java   0 secs          ████████████████████████░   99.39 % 
+YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+```
 <!--END_SECTION:waka-->
