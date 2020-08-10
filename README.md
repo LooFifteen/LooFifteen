@@ -1,4 +1,4 @@
-<img src="https://avatars.githubusercontent.com/u/39528861?s=48&v=4" \> <h3>Hey! I'm Luis.</h3>
+<img src="https://avatars.githubusercontent.com/u/39528861?s=48&v=4" ></img> <h3>Hey! I'm Luis.</h3>
 
 I'm a British Developer who seems to have a crush on Java. I have a great interest in Minecraft and the code that surrounds it, I make Bukkit, Spigot, Paper, BungeeCord and Waterfall plugins that:
   * Manage Bungee subservers
