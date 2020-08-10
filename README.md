@@ -1,15 +1,15 @@
 ### Hey! I'm Luis.
 
 I'm a British Developer who seems to have a crush on Java. I have a great interest in Minecraft and the code that surrounds it, I make Bukkit, Spigot, Paper, BungeeCord and Waterfall plugins that:
-* Manage Bungee subservers
-* Help general moderation
-* Teach youth aspects of the online world
-* And more...
+  * Manage Bungee subservers
+  * Help general moderation
+  * Teach youth aspects of the online world
+  * And more...
 I also make many Discord bots that:
-* Contact APIs
-* Allow members to play games
-* Automate moderation
-* Are more...
+  * Contact APIs
+  * Allow members to play games
+  * Automate moderation
+  * Are more...
 Have a look around my profile, you might believe the first sentence of this description.
 <!-- - 👯 I’m looking to collaborate on ...
 - 🔭 I’m currently working on **a Minecraft game panel API**
