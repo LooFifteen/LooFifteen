@@ -17,4 +17,5 @@ YAML   0 secs          ░░░░░░░░░░░░░░░░░░░
 ```
 <!--END_SECTION:waka-->
 
-![SLLCoding's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=great-gatsby)
+--
+<img src="https://github-readme-stats.vercel.app/api?username=SLLCoding&show_icons=true&theme=great-gatsby" />
