@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
 <!-- - 👯 I’m looking to collaborate on ... -->
 - 🔭 I’m currently working on **a Minecraft game panel API**
 - 🌱 I’m currently learning **JavaScript**
@@ -17,3 +16,5 @@ Java   0 secs          ███████████████████
 YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
 ```
 <!--END_SECTION:waka-->
+
+![SLLCoding's GitHub Stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=great-gatsby)
