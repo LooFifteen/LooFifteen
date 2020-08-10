@@ -5,7 +5,9 @@ I'm a British Developer who seems to have a crush on Java. I have a great intere
   * Help general moderation
   * Teach youth aspects of the online world
   * And more...
+  
 I also make many Discord bots that:
+
   * Contact APIs
   * Allow members to play games
   * Automate moderation
