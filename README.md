@@ -12,6 +12,7 @@ I also make many Discord bots that:
   * Allow members to play games
   * Automate moderation
   * Are more...
+  
 Have a look around my profile, you might believe the first sentence of this description.
 <!-- - 👯 I’m looking to collaborate on ...
 - 🔭 I’m currently working on **a Minecraft game panel API**
