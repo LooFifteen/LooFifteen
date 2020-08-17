@@ -27,7 +27,7 @@ Have a look around my profile, you might believe the first sentence of this desc
 <!--START_SECTION:waka-->
 ```text
 Java   13 mins         █████████████████████████   99.92 % 
-YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+YAML   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
 ```
 <!--END_SECTION:waka-->
 
