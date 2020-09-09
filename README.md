@@ -29,8 +29,6 @@ Have a look around my profile, you might believe the first sentence of this desc
 Java         9 hrs 50 mins   ████████████████████████▓   98.44 % 
 XML          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 Markdown     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
-YAML         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.15 % 
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 <!--END_SECTION:waka-->
 
