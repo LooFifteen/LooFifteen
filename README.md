@@ -26,9 +26,7 @@ Have a look around my profile, you might believe the first sentence of this desc
 📊 **This week I spent my time on**
 <!--START_SECTION:waka-->
 ```text
-Java         9 hrs 50 mins   ████████████████████████▓   98.44 % 
-XML          4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
-Markdown     4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
