@@ -8,7 +8,7 @@ Have a look around my profile, you might believe the first sentence of this desc
 - 💬 Ask me about **Minecraft**
 - 📫 How to reach me: **Discord: SLL#5314**
 - 😄 Pronouns: **he/they**
-- ⚡ Fun fact: **There are too many Bukkit forks**-->
+- ⚡ Fun fact: **There are too many Bukkit forks**
 
 📊 **This week I spent my time on** (if it updates, which it won't)
 <!--START_SECTION:waka-->
