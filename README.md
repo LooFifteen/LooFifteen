@@ -13,8 +13,8 @@ Have a look around my profile, you might believe the first sentence of this desc
 📊 **This week I spent my time on** (if it updates, which it won't)
 <!--START_SECTION:waka-->
 ```text
-Java     56 mins         ███████████████████▒░░░░░   77.28 % 
-XML      16 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.72 % 
+Java   56 mins         ███████████████████▒░░░░░   77.28 % 
+XML    16 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.72 % 
 ```
 <!--END_SECTION:waka-->
 
