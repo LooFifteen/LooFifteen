@@ -14,10 +14,8 @@ Have a look around my profile, you might believe the first sentence of this desc
 <!--START_SECTION:waka-->
 
 ```text
-Rust     30 mins         ████████████▓░░░░░░░░░░░░   50.38 %
-Kotlin   29 mins         ████████████░░░░░░░░░░░░░   48.26 %
-Java     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.90 %
-TOML     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
+Kotlin   29 mins         ████████████████████████▓   98.17 %
+Java     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
 ```
 
 <!--END_SECTION:waka-->
