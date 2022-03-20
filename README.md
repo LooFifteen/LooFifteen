@@ -14,7 +14,10 @@ Have a look around my profile, you might believe the first sentence of this desc
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+Java       3 hrs 51 mins   █████████████████████░░░░   84.28 %
+Kotlin     34 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 %
+Markdown   8 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
