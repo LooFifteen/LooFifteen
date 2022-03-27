@@ -14,12 +14,12 @@ Have a look around my profile, you might believe the first sentence of this desc
 <!--START_SECTION:waka-->
 
 ```text
-Java             15 hrs 4 mins   ██████████████████▒░░░░░░   73.72 %
-Kotlin           3 hrs 27 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.87 %
-YAML             42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
-Properties       34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.83 %
-Markdown         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
-Text             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Java             14 hrs 43 mins  ███████████████████░░░░░░   75.58 %
+Kotlin           2 hrs 57 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.23 %
+YAML             42 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.68 %
+Properties       34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.98 %
+Markdown         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.49 %
+Text             3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
 ```
 
 <!--END_SECTION:waka-->
