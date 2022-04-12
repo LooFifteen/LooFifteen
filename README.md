@@ -14,12 +14,12 @@ Have a look around my profile, you might believe the first sentence of this desc
 <!--START_SECTION:waka-->
 
 ```text
-Java                  14 hrs 55 mins  █████████████████▒░░░░░░░   69.78 %
-Kotlin                2 hrs 29 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.63 %
-Docker                57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.50 %
-XML                   53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.15 %
-Groovy                45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
-YAML                  24 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
+Java                  20 hrs 4 mins   ██████████████████░░░░░░░   72.05 %
+Kotlin                2 hrs 51 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.29 %
+Docker                57 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+XML                   55 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.30 %
+Groovy                45 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.74 %
+JSON                  35 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
 ```
 
 <!--END_SECTION:waka-->
