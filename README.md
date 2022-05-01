@@ -14,12 +14,12 @@ Have a look around my profile, you might believe the first sentence of this desc
 <!--START_SECTION:waka-->
 
 ```text
-Java             6 hrs 35 mins   ███████████████████████▒░   92.94 %
-XML              16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
-Kotlin           5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
-JSON             4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.00 %
-GitIgnore file   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-Text             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 %
+Java             6 hrs           ███████████████████████▒░   93.13 %
+XML              16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
+Kotlin           5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+JSON             3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Text             1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
+GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
