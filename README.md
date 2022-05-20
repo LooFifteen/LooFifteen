@@ -14,9 +14,10 @@ Have a look around my profile, you might believe the first sentence of this desc
 <!--START_SECTION:waka-->
 
 ```text
-Java       1 hr 13 mins    ████████████████████████▒   96.73 %
-JSON       1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.15 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Java             1 hr 41 mins    ██████████████████████▒░░   89.56 %
+GitIgnore file   8 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 %
+JSON             2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+Markdown         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 ```
 
 <!--END_SECTION:waka-->
