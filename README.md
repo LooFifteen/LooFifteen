@@ -14,9 +14,9 @@ Have a look around my profile, you might believe the first sentence of this desc
 <!--START_SECTION:waka-->
 
 ```text
-Java             2 hrs 16 mins   ██████████████████████░░░   88.22 %
-Kotlin           17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
-GitIgnore file   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
+Java             50 mins         █████████████████████▒░░░   85.90 %
+Kotlin           7 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.23 %
+GitIgnore file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 ```
 
 <!--END_SECTION:waka-->
