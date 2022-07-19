@@ -1,12 +1,10 @@
-<h3 style="margin: auto;"><img src="https://avatars.githubusercontent.com/u/39528861?s=48&v=4" ></img> Hey! I'm Luis.</h3>
+<h3 style="margin: auto;"><img src="https://avatars.githubusercontent.com/u/39528861?s=48&v=4" ></img> Heyo! I'm Luis.</h3>
 
-I'm a British Developer who seems to have a crush on Java. I have a great interest in Minecraft and the code that surrounds it. I have an obsession with creating Bukkit plugins (or Spigot or Paper or Tuinity or Airplane or Purpur), BungeeCord plugins (or Waterfall or Travertine or FlameCord), Minestom extensions, Velocity plugins, Forge mods and Fabric mods. If you have any questions about these subjects theres a high chance I can help you.
-  
-Have a look around my profile, you might believe the first sentence of this description.
+I'm a developer from the jolly lands of the United Kingdom. This means I am very patriotic and will bang on about tea all the time. I'm obsessed with Minecraft and breaking its limits using server-side modifications.
 
-- 🌱 I’m currently learning **Fabric**
-- 💬 Ask me about **Minecraft**
-- 📫 How to reach me: **Discord: SLL#5314**
+- 🌱 I’m currently learning **Rust**
+- 💬 Ask me about **Minestom**
+- 📫 How to reach me: [Hypera Discord Server](https://discord.hypera.dev)
 - 😄 Pronouns: **he/they**
 - ⚡ Fun fact: **There are too many Bukkit forks**
 
