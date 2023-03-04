@@ -17,4 +17,4 @@ No activity tracked
 
 <!--END_SECTION:waka-->
 
-<a href="https://sllcoding.dev"><img src="https://github-readme-stats.vercel.app/api?username=SLLCoding&show_icons=true&theme=great-gatsby" /></a>
+<a href="https://sllcoding.dev"><img src="https://github-readme-stats.vercel.app/api?username=LooFifteen&show_icons=true&theme=great-gatsby" /></a>
